@@ -1,0 +1,17 @@
+# Large/raw data files
+gravity.csv
+gravity.dta
+
+# R session/intermediate files
+.RData
+.Rhistory
+Rplot.png
+Rplot01.pdf
+
+# Generated outputs
+*.png
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
